@@ -1,5 +1,5 @@
 # indigo-frog
-Housewarming Project
+Housewarming Project.
 It warms my new home.
 I feel warm now.
 Gosh it's hot.
